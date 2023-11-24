@@ -1,4 +1,4 @@
-Slide Show Project
+**Slide Show Project**
 
 **Overview**
 
