@@ -1,22 +1,28 @@
 Slide Show Project
-Overview
+
+**Overview**
+
 This project consists of HTML, CSS, and JavaScript code that creates a slideshow. The slideshow is designed to showcase information about Kibo, an online university providing affordable STEM degrees to Africans. Each slide contains different content, such as images, text, and even a glimpse of the future Bachelor's in Computer Science program.
 
-How to Use
+**How to Use**
 Clone or download the repository to your local machine.
 Open the index.html file in a web browser.
-Code Structure
-HTML
+
+**Code Structure**
+**HTML**
 The HTML file (index.html) contains the structure of the webpage.
 Each slide is represented by a div element with a specific class (e.g., slide s-1).
 Content within each slide is organized using various HTML elements.
-CSS
+
+**CSS**
 The styling is defined in the style.css file.
 CSS is used to position elements, define colors, and create the overall visual design.
-JavaScript
+
+**JavaScript**
 The JavaScript logic is implemented in the script.js file.
 It handles the functionality of transitioning between slides and managing the visibility of each slide.
-Slide Content
+
+**Slide Content**
 Slide 1: Introduction to STEM degrees for Africa.
 Slide 2: Emphasis on the future of global talent in Africa.
 Slide 3: Highlighting the demand for university education.
@@ -27,7 +33,8 @@ Slide 7: Image-based slide.
 Slide 8: Details about the upcoming Bachelor's in Computer Science program.
 Slide 9: Recognizing experts in tech, education, and building for Africa.
 Slide 10: A closing slide with a thank-you message.
-Example Readmes
+
+**Example Readmes**
 Check out these example projects on Github for inspiration:
 
 HTML Slideshow
